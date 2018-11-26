@@ -1,0 +1,35 @@
+{
+  "id": 2,
+  "currency": "ETC",
+  "date": "2017-12-30T13:00:00.000+0000",
+  "profit": null,
+  "buy": null,
+  "sell": null,
+  "quote": [
+    {
+      "id": 9,
+      "time": "0900",
+      "price": 1.45
+    },
+    {
+      "id": 10,
+      "time": "1030",
+      "price": 1.87
+    },
+    {
+      "id": 11,
+      "time": "1245",
+      "price": 1.55
+    },
+    {
+      "id": 12,
+      "time": "1515",
+      "price": 2.01
+    },
+    {
+      "id": 13,
+      "time": "1700",
+      "price": 2.15
+    }
+  ]
+}
